@@ -1,0 +1,43 @@
+Student Name: HIMANI SANGER 
+Registration No.: 25BAI11293 
+Semester: Winter Semester 
+Academic Year: 2025–26 
+Slot: F22 
+Subject: Digital Literacy 
+Faculty: Dr. Kannan 
+School: School of Computing Science Engineering and Artificial Intelligence (SCAI), VIT Bhopal University 
+ 
+Stay Safe Online – Checklist 
+General Safety Guidelines 
+* Use strong and unique passwords for each account, including a mix of letters, numbers, and special characters.  
+* Enable two-factor authentication (2FA) on important platforms like email, banking, and social media.  
+* Avoid opening suspicious links or downloading attachments from unknown sources.  
+* Always verify website URLs—ensure correct spelling and look for “https://” before entering sensitive data.  
+* Do not access important accounts using public Wi-Fi networks.  
+* Keep your devices updated with the latest security patches and antivirus software.  
+* Regularly back up important data to prevent loss in case of cyberattacks.  
+* Log out of accounts after using shared or public devices.  
+ 
+Financial / UPI Safety Tips 
+* Never share your bank details, UPI PIN, or OTP with anyone.  
+* Do not approve unknown “Collect Requests” on apps like Google Pay, PhonePe, or Paytm.  
+* Double-check the recipient’s details before transferring money.  
+* Avoid scanning random QR codes from unknown or untrusted sources.  
+* Set transaction limits and enable alerts for all financial activities.  
+* Immediately report any suspicious transaction to your bank.  
+ 
+Social Media & Awareness 
+* Avoid sharing sensitive personal details such as phone number, address, or academic information publicly.  
+* Keep your social media profiles private and review privacy settings regularly.  
+* Be cautious about friend requests from unknown people.  
+* Think carefully before posting—your online presence can affect your future career.  
+* Do not click on attractive offers, giveaways, or fake job links shared online.  
+* Stay informed about common cyber threats like phishing and scams.  
+ 
+Reporting Cybercrime 
+* Report cybercrime incidents on the National Cyber Crime Portal.  
+* In case of financial fraud, immediately call the Cyber Crime Helpline: 1930.  
+* Inform your bank and block your account if any suspicious activity is detected.  
+* Keep records of messages, emails, or transaction details as evidence for reporting. 
+ 
+
