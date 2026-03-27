@@ -103,6 +103,7 @@ The project includes five tasks, each focusing on different aspects of digital l
 ## 📂 Repository Structure
 
 
+```mermaid
 graph TD
     A[digital-literacy-project]
     A --> B[README.md]
@@ -113,7 +114,7 @@ graph TD
     A --> G[task-3-platforms]
     A --> H[task-4-email-etiquette]
     A --> I[task-5-cybercrime]
----
+```
 
 ## 🎯 Key Learnings
 
