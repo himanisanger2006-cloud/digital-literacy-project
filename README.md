@@ -141,5 +141,6 @@ digital-literacy-project/
 
 ## 📌 Conclusion
 
-This project was a valuabl
+This project was a valuable learning experience that enhanced my **technical skills, communic
+
 
