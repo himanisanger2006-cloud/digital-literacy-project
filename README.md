@@ -103,22 +103,16 @@ The project includes five tasks, each focusing on different aspects of digital l
 ## 📂 Repository Structure
 
 
-digital-literacy-project/
-│── README.md
-│
-├── report/
-│   └── Project_Report.pdf
-│
-├── task-1-presentation/
-│
-├── task-2-portfolio/
-│
-├── task-3-platforms/
-│
-├── task-4-email-etiquette/
-│
-└── task-5-cybercrime/
-
+graph TD
+    A[digital-literacy-project]
+    A --> B[README.md]
+    A --> C[report]
+    C --> D[Project_Report.pdf]
+    A --> E[task-1-presentation]
+    A --> F[task-2-portfolio]
+    A --> G[task-3-platforms]
+    A --> H[task-4-email-etiquette]
+    A --> I[task-5-cybercrime]
 ---
 
 ## 🎯 Key Learnings
